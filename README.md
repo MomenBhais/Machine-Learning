@@ -1,5 +1,7 @@
 # Machine Learning Course
 
+![Python Logo](https://www.python.org/static/community_logos/python-logo.png)
+
 ## Overview
 Welcome to the **Machine Learning & Data Analysis Course** repository! This collection contains a series of projects and tutorials aimed at providing a deep understanding of machine learning algorithms, data preprocessing techniques, and model evaluation methods. Each section covers a specific algorithm, its theoretical background, practical implementation, and performance evaluation using Python.
 
